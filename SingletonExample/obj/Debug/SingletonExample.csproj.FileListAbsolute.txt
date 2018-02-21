@@ -1,0 +1,1 @@
+c:\users\tugay\documents\visual studio 2015\Projects\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
